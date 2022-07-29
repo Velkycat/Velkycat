@@ -1,11 +1,11 @@
-- Hello, I'm Velkycat (aka vel or alex). I live in the USA and am currently taking courses on programming and web development. I'm a kid ;-;
+- Hello, I'm Velkycat. i'm learning front-end by making static web pages for friends
 - Interests: 
 
   - cats
  
   - art/animating
  
-  - Python and CSS
+  - Python, front-end
  
   - reading
  
@@ -17,6 +17,5 @@
  
 - Social Media Accounts:
 
-  - [Discord](https://discordhub.com/profile/679156274562203698)
   - [Twitter](https://twitter.com/LionblazeC)
-  - [Steam](https://steamcommunity.com/id/vel4351)
+  - [Steam](https://steamcommunity.com/id/ONE0072)
