@@ -1,11 +1,13 @@
-- Hello, I'm Velkycat. i'm learning front-end by making static web pages for friends
+- Hello, I'm Velkycat/skaie and I'm learning to become a full-stack dev
 - Interests: 
+
+  - nova, ergy, and the rest of the TCG AoPS community
 
   - cats
  
   - art/animating
  
-  - Python, front-end
+  - Python, JS, CSS, HTML
  
   - reading
  
@@ -13,9 +15,9 @@
  
   - outdoor activities
   
-  - VR and video games
+  - VR, SoT, Subnautica
  
 - Social Media Accounts:
 
-  - [Twitter](https://twitter.com/LionblazeC)
+    Discord: skaie#8901
   - [Steam](https://steamcommunity.com/id/ONE0072)
