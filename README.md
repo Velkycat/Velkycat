@@ -19,5 +19,5 @@
  
 - Social Media Accounts:
 
-    Discord: skaie#8901
+    Discord: velk#3261
   - [Steam](https://steamcommunity.com/id/ONE0072)
